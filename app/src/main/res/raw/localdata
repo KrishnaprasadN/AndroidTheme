@@ -1,0 +1,8 @@
+{
+  "textColor": "#000000",
+  "bgColor": "#D3D3D3",
+  buttonColor: "#00FFFF",
+  buttonTextColor: "#FFFFFF",
+  inputTextColor: "#000080",
+  imgUrl: "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+}
